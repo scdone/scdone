@@ -1,7 +1,7 @@
 - 👋 [Hi, I’m Stetson :)](https://www.stetsondone.com/)
-- 👀 I’m a Data Analyst with experience using Python, SQL, Excel, and Tableau.
-- 🌱 I'm currently working on a **Master's of Science in Data Analytics** at Western Governor's University. 
-- 💞️ I'm passionate about helping adult learners change their life through education. 
+- 👀 I’m a Data Analyst with experience in Python, SQL, Excel, Tableau, and Sigma.
+- 🌱 I have a Master's degree in Data Analytics and Bachelor's in Business
+- 💞️ I'm passionate about helping businesses make more money through data analysis. 
 - 📫 [Connect with me on LinkedIn!](https://www.linkedin.com/in/stetson-done/) I am always happy to chat.
 
 <!---
